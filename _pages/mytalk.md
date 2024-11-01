@@ -1,6 +1,6 @@
 ---
 layout: archive
-Title: " "
+Title: "."
 permalink: /mytalk/
 author_profile: true
 ---
