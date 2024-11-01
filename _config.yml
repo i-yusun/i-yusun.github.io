@@ -67,27 +67,6 @@ author:
   zhihu            : # Username
 
 
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-
-		# Biographic information	
-avatar : "profile.png"
-name : "Yu Sun (孙瑜)"
-pronouns : “Yoo Soon” 
-bio : "sunyu@se.cuhk.edu.hk"
-		# bio : "The Chinese University of Hong Kong"
-location : #"Earth"
-employer : "Chinese University of Hong Kong"
-		# employer : "Chinese University of Hong Kong"
-uri : # URL
-email : "sunyu@se.cuhk.edu.hk" 
-		# email : "sunyu@se.cuhk.edu.hk" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
