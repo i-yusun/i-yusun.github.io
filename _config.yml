@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Yu Sun"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yu Sun"
 description              : &description "personal description"
-url                      : "https://i-yusun.github.io" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://i-yusun.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "i-yusun/i-yusun.github.io"
 
