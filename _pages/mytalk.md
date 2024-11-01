@@ -1,5 +1,6 @@
 ---
 layout: archive
+Title: ""
 permalink: /mytalk/
 author_profile: true
 ---
