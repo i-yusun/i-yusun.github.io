@@ -19,19 +19,20 @@ My research focuses on modeling and robust optimization in the diverse context o
 Selected Working Papers
 -
 
-1. **Distributionally Robust Discrete Choice Model and Assortment Optimization** [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4045001)
+1. **Distributionally Robust Group Testing with Correlation Information** [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284685)
+
+   [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22), **Yu Sun**, [Aiqi Zhang](https://sites.google.com/view/aqzhang)
+
+   Under Minor Revision at _Management Science_ 
+
+
+2. **Distributionally Robust Discrete Choice Model and Assortment Optimization** [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4045001)
 
    [Qingwei Jin](https://person.zju.edu.cn/en/qingweijin), [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), **Yu Sun**, Bin Hu
 
    Under Major Revision at _Management Science_
 
    - Second Prize, 2024 CSAMSE Best Paper Award
-
-3. **Distributionally Robust Group Testing with Correlation Information** [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284685)
-
-   [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22), **Yu Sun**, [Aiqi Zhang](https://sites.google.com/view/aqzhang)
-
-   Under Minor Revision at _Management Science_ 
 
 
 3. **Sequential Choice Model with Representative Products: Modeling and Optimization**
