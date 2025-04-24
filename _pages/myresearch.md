@@ -17,7 +17,7 @@ author_profile: true
 
    [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22), **Yu Sun**, [Aiqi Zhang](https://sites.google.com/view/aqzhang)
 
-   Under Major Revision at _Management Science_ 
+   Under Minor Revision at _Management Science_ 
 		
 		
 		
