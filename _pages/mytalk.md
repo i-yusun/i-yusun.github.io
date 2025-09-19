@@ -6,10 +6,6 @@ author_profile: true
 ---
 		
 
-		
-
-Conference Talks
--
 
 **Distributionally Robust Group Testing with Correlation Information**
 		
