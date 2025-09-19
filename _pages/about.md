@@ -21,9 +21,9 @@ Selected Working Papers
 
 **1. Distributionally Robust Group Testing with Correlation Information** [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284685)
 
-   [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22), **Yu Sun**, [Aiqi Zhang](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/aiqi-zhang/)
+      [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22), **Yu Sun**, [Aiqi Zhang](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/aiqi-zhang/)
 
-   Under Minor Revision at _Management Science_ 
+      Under Minor Revision at _Management Science_ 
 
 
 **2. Choice-based Assortment Optimization with Distributional Ambiguity** [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4045001)
