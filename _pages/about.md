@@ -32,7 +32,7 @@ Selected Working Papers
 
 &nbsp;&nbsp;&nbsp;&nbsp;Under Major Revision at _Management Science_
 
-&nbsp;&nbsp; - Second Prize, 2024 CSAMSE Best Paper Award
+  - Second Prize, 2024 CSAMSE Best Paper Award
 
 
 **3. Sequential Choice Model with Representative Products: Modeling and Optimization**
