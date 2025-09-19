@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yu Sun"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yu Sun"
 description              : &description "personal description"
