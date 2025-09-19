@@ -3,7 +3,9 @@ layout: archive
 permalink: /myaward/
 author_profile: true
 ---
-		
+
+- Reaching Out Award, Education Bureau, Hong Kong SAR, 2025
+
 - Second Prize, Chinese Scholars Association for Management Science and Engineering Best Paper Award, 2024
 		
 - PhD International Mobility for Partnerships and Collaborations Award, The Chinese University of Hong Kong, 2023
