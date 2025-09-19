@@ -18,7 +18,7 @@ Conference Talks
 
 - CSAMSE Conference,	2023
 
-- POMS-HK International Conference,	2023,2024
+- POMS-HK International Conference,	2023 / 2024
 
 		
 **Distributionally Robust Discrete Choice Model and Assortment Optimization**
@@ -29,7 +29,7 @@ Conference Talks
 
 - INFORMS Annual Meeting,	2023
 
-- POMS-HK International Conference,	2023 / 2024
+- POMS-HK International Conference,	2023 / 2024 / 2025
 		
 
 **Title: Sequential Choice Model with Representative Products: Behavior, Modeling and Optimization**
@@ -39,7 +39,8 @@ Conference Talks
 		
 
 - INFORMS Revenue Management and Pricing Section Conference, 2024
-		
 
 - INFORMS Annual Meeting, 2024
+
+- POMS-HK International Conference,	2025
 		
