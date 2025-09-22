@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yu Sun 孙瑜"
-  pronouns         : “Yoo Soon” 
+  pronouns         : # “Yoo Soon” 
   bio              : "sun-yu@link.cuhk.edu.hk"
   location         : # "Earth"
   employer         : # "The Chinese University of Hong Kong"
