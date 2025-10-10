@@ -16,7 +16,10 @@ My research focuses on modeling and robust optimization in the diverse context o
 
 ---
 
-I will give a talk about _Sequential Choice Model with Representative Products_ at 2025 INFORMS Annual Meeting. This is a wonderful opportunity to share insights and engage in discussions, and I look forward to connecting with everyone there!
+News
+-
+
+I will give a talk on Sequential Choice Model with Representative Products at 2025 INFORMS Annual Meeting. This is a wonderful opportunity to share insights and engage in discussions, and I look forward to connecting with everyone there!
 
 Title: [Sequential Choice Model with Representative Products: Modeling and Optimization](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2313) \
 Session: Advances and New Applications of Choice Models | Invited Session \
