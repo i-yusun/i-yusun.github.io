@@ -21,6 +21,6 @@ News
 
 I will give a talk on Sequential Choice Model with Representative Products at 2025 INFORMS Annual Meeting. This is a wonderful opportunity to share insights and engage in discussions, and I look forward to connecting with everyone there!
 
-Title: [Sequential Choice Model with Representative Products: Modeling and Optimization](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2313) \
+Title: Sequential Choice Model with Representative Products: Modeling and Optimization [(conference link)](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2313) \
 Session: Advances and New Applications of Choice Models | Invited Session \
 Time & Location: Wednesday, October 29 | 8:00 AM - 9:15 AM | Building B Level 3 B313
