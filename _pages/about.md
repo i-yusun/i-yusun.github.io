@@ -14,29 +14,23 @@ Prior to my Ph.D., I obtained my bachelor’s degree in Industrial Engineering f
 My research focuses on modeling and robust optimization in the diverse context of healthcare, discrete choice models, and revenue management. You can find my CV [here](../assets/YuSunCV.pdf).
 
 
-
-
-Selected Working Papers
+News
 -
 
-**1. Distributionally Robust Group Testing with Correlation Information** [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284685)
+I will give a talk about _Sequential Choice Model with Representative Products_ at 2025 INFORMS Annual Meeting. This is a wonderful opportunity to share insights and engage in discussions, and I look forward to connecting with everyone there!
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22), **Yu Sun**, [Aiqi Zhang](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/aiqi-zhang/)
+**Title**: Sequential Choice Model with Representative Products: Modeling and Optimization
+**Session**: Advances and New Applications of Choice Models | Invited Session
+**Time & Location**: Wednesday, October 29 | 8:00 AM - 9:15 AM, Building B Level 3 B313
 
-&nbsp;&nbsp;&nbsp;&nbsp;Under Minor Revision at _Management Science_ 
+--
 
-
-**2. Choice-based Assortment Optimization with Distributional Ambiguity** [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4045001)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Qingwei Jin](https://person.zju.edu.cn/en/qingweijin), [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), **Yu Sun**, Bin Hu
-
-&nbsp;&nbsp;&nbsp;&nbsp;Under Major Revision at _Management Science_
-
-  - Second Prize, 2024 CSAMSE Best Paper Award
+test
 
 
-**3. Sequential Choice Model with Representative Products: Modeling and Optimization**
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), **Yu Sun**, [Ruxian Wang](https://carey.jhu.edu/faculty/faculty-directory/ruxian-wang-phd)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Preparing for submission
+
+
+
+
