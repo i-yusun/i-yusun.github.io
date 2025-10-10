@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Selected Working Papers
--
+=
 
 
 **1. Distributionally Robust Group Testing with Correlation Information** [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284685)
