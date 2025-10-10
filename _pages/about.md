@@ -14,8 +14,7 @@ Prior to my Ph.D., I obtained my bachelor’s degree in Industrial Engineering f
 My research focuses on modeling and robust optimization in the diverse context of healthcare, discrete choice models, and revenue management. You can find my CV [here](../assets/YuSunCV.pdf).
 
 
-News
--
+---
 
 I will give a talk about _Sequential Choice Model with Representative Products_ at 2025 INFORMS Annual Meeting. This is a wonderful opportunity to share insights and engage in discussions, and I look forward to connecting with everyone there!
 
@@ -23,9 +22,6 @@ I will give a talk about _Sequential Choice Model with Representative Products_ 
 **Session**: Advances and New Applications of Choice Models | Invited Session
 **Time & Location**: Wednesday, October 29 | 8:00 AM - 9:15 AM, Building B Level 3 B313
 
---
-
-test
 
 
 
