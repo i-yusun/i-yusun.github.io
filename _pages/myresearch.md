@@ -5,6 +5,9 @@ permalink: /myresearch/
 author_profile: true
 ---
 
+Selected Working Papers
+-
+
 
 **1. Distributionally Robust Group Testing with Correlation Information** [(link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284685)
 
@@ -28,15 +31,3 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;Preparing for submission
 
-		
-**4. Smart Predict-then-optimize Approach in Assortment Optimization**
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), **Yu Sun**, [Ruxian Wang](https://carey.jhu.edu/faculty/faculty-directory/ruxian-wang-phd)
-
-&nbsp;&nbsp;&nbsp;&nbsp;Working paper
-		
-**5. Optimization with Small Data: Data-Driven Distributionally Robust Defibrillator Deployment under an Adjustable Ambiguity Set**
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Zhi Chen](https://sites.google.com/view/z-chen), Tenglong Hong, [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), **Yu Sun**
-
-&nbsp;&nbsp;&nbsp;&nbsp;Working paper
