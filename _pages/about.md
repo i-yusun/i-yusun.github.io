@@ -7,9 +7,6 @@ redirect_from:
 - /about.html
 ---
 
-<div style="text-align: justify;">
-
-
 Welcome!
 =
 I am a postdoctoral research fellow at the [Rotman School of Management, University of Toronto](https://www.rotman.utoronto.ca/), supervised by Prof. [Ming Hu](https://discover.research.utoronto.ca/21567-ming-hu), Prof. [Hansheng Jiang](https://discover.research.utoronto.ca/53438-hansheng-jiang) and Prof. [Sheng Liu](https://discover.research.utoronto.ca/21123-sheng-liu). I earned my Ph.D. in the Department of [Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) under the guidance of Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/). 
@@ -25,8 +22,7 @@ News
 
 I will give a talk on Sequential Choice Model with Representative Products at 2025 INFORMS Annual Meeting. This is a wonderful opportunity to share insights and engage in discussions, and I look forward to connecting with everyone there!
 
-Title: Sequential Choice Model with Representative Products: Modeling and Optimization [(conference link)](https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2313) \
+Title: [Sequential Choice Model with Representative Products: Modeling and Optimization] (https://submissions.mirasmart.com/InformsAnnual2025/Itinerary/PresentationDetail.aspx?evdid=2313) \
 Session: Advances and New Applications of Choice Models | Invited Session \
 Time & Location: Wednesday, October 29 | 8:00 AM - 9:15 AM | Building B Level 3 B313
 
-</div>
