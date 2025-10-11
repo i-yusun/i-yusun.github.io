@@ -6,6 +6,12 @@ redirect_from:
 - /about/
 - /about.html
 ---
+
+<div style="text-align: justify;">
+    <p>This paragraph is justified. All text in this paragraph will be evenly aligned on both the left and right sides, creating a clean and organized appearance.</p>
+    <p>You can add more paragraphs here, and they will also be justified automatically.</p>
+</div>
+
 Welcome!
 =
 I am a postdoctoral research fellow at the [Rotman School of Management, University of Toronto](https://www.rotman.utoronto.ca/), supervised by Prof. [Ming Hu](https://discover.research.utoronto.ca/21567-ming-hu), Prof. [Hansheng Jiang](https://discover.research.utoronto.ca/53438-hansheng-jiang) and Prof. [Sheng Liu](https://discover.research.utoronto.ca/21123-sheng-liu). I earned my Ph.D. in the Department of [Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) under the guidance of Prof. [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/). 
