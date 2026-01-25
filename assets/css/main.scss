@@ -47,17 +47,27 @@ html { font-size: 90%; }
 
 p, li { line-height: 1.55; }
 
+/* ===== Global layout tuning (all pages) ===== */
+
+/* Make main content wider */
+.page__content {
+  max-width: 1050px;   /* 你可以试 980 / 1050 / 1100 */
+}
+
+/* Increase space between sidebar and main text */
 @media (min-width: 64em) {
   .page__inner-wrap {
-    padding-left: 2.0rem;
+    padding-left: 2.5rem;  /* 原来 2.0，可以再大一点 */
   }
 }
 
+/* Justify text globally */
 .page__content p {
   text-align: justify;
   text-justify: inter-word;
   hyphens: auto;
 }
+
 
 
 
