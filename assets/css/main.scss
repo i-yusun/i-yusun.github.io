@@ -54,20 +54,23 @@ p, li { line-height: 1.55; }
   max-width: 1050px;   /* 你可以试 980 / 1050 / 1100 */
 }
 
-/* Increase space between sidebar and main text */
+/* ===== Global spacing between sidebar and main content (ALL layouts) ===== */
+
+/* 1) Give the sidebar some right margin (works best across layouts) */
 @media (min-width: 64em) {
-  .page__inner-wrap {
-    padding-left: 2.5rem;  /* 原来 2.0，可以再大一点 */
+  .sidebar {
+    margin-right: 2.5rem;   /* 想更远：3rem */
   }
 }
 
-/* Justify text globally */
-.page__content p {
-  text-align: justify;
-  text-justify: inter-word;
-  hyphens: auto;
+/* 2) Also add a bit of left padding to the main column for all common layouts */
+@media (min-width: 64em) {
+  .layout--home .page__inner-wrap,
+  .layout--single .page__inner-wrap,
+  .layout--archive .page__inner-wrap {
+    padding-left: 1.0rem;   /* 可调：0.5rem～2rem */
+  }
 }
-
 
 
 
