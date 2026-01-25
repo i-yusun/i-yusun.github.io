@@ -40,6 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-html { zoom: 0.9; }
-body { background: #fff0f0 !important; }
+/* mimic 90% browser zoom */
+html { font-size: 90%; }
+
+.page__content { max-width: 900px; }
+
+p, li { line-height: 1.55; }
+
 
