@@ -31,7 +31,7 @@ author_profile: true
 
 **4. AI vs. Human Search** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Ming Hu](http://individual.utoronto.ca/minghu/), [Hansheng Jiang](https://discover.research.utoronto.ca/53438-hansheng-jiang), [Sheng Liu](https://discover.research.utoronto.ca/21123-sheng-liu), **Yu Sun**
+&nbsp;&nbsp;&nbsp;&nbsp;[Ming Hu](https://discover.research.utoronto.ca/21567-ming-hu), [Hansheng Jiang](https://discover.research.utoronto.ca/53438-hansheng-jiang), [Sheng Liu](https://discover.research.utoronto.ca/21123-sheng-liu), **Yu Sun**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Working Paper
 
