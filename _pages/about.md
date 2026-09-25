@@ -25,5 +25,5 @@ Title: [AI vs. Human Search](https://submissions.mirasmart.com/InformsAnnual2026
 
 Session: AI, Search, and Market Dynamics 
 
-Time & Location: Sunday, November 1 | 1:15 PM-2:30 PM, Moscone South-205 (Level 2)
+Time & Location: Sunday, November 1, 1:15 PM-2:30 PM, Moscone South-205 (Level 2)
 
