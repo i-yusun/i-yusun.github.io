@@ -4,6 +4,8 @@ permalink: /myaward/
 author_profile: true
 ---
 
+- Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2026
+
 - Reaching Out Award, Education Bureau, Hong Kong SAR, 2025
 
 - Second Prize, Chinese Scholars Association for Management Science and Engineering Best Paper Award, 2024
