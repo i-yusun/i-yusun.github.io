@@ -1,6 +1,5 @@
 ---
 layout: archive
-permalink: /research/
 permalink: /myresearch/
 author_profile: true
 ---
