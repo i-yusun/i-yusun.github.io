@@ -14,18 +14,16 @@ Prior to my Ph.D., I obtained my bachelor’s degree in Industrial Engineering f
 
 My research focuses on modeling and robust optimization in the diverse context of healthcare, discrete choice models, and revenue management. You can find my CV [here](../assets/YuSunCV.pdf).
 
-<!--
 ---
 
 News
 -
 
-I will give a talk on Sequential Choice Model with Representative Products at 2025 INFORMS Annual Meeting. This is a wonderful opportunity to share insights and engage in discussions, and I look forward to connecting with everyone there!
+I will give a talk on AI vs. Human Search at 2026 INFORMS Annual Meeting. This is a wonderful opportunity to share insights and engage in discussions, and I look forward to connecting with everyone there!
 
 Title: [AI vs. Human Search](https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/PresentationDetail.aspx?evdid=3966) \
 Session: AI, Search, and Market Dynamics
 Day: Sunday, November 1 
 Time: 1:15 PM-2:30 PM
 Room: Moscone South-205 (Level 2)
--->
 
