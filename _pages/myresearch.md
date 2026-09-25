@@ -37,7 +37,7 @@ author_profile: true
 
 **5. Sequential Choice Model with Representative Products: Modeling and Optimization**
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), **Yu Sun**, [Ruxian Wang](https://carey.jhu.edu/faculty/faculty-directory/ruxian-wang-phd)
+&nbsp;&nbsp;&nbsp;&nbsp;**Yu Sun**, [Ruxian Wang](https://carey.jhu.edu/faculty/faculty-directory/ruxian-wang-phd)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Working Paper
 
