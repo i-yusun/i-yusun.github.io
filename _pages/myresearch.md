@@ -10,7 +10,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22), **Yu Sun**, [Aiqi Zhang](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/aiqi-zhang/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Accepted, _Management Science_ 
+&nbsp;&nbsp;&nbsp;&nbsp;Articles in Advance, _Management Science_ 
 
   - Finalist, POMS College of Healthcare Operations Management (CHOM) Best Paper Competition, 2026
 
