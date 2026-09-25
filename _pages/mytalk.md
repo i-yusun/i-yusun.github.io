@@ -28,7 +28,7 @@ author_profile: true
 - POMS-HK International Conference,	2023 / 2024 / 2025
 		
 
-**Title: Sequential Choice Model with Representative Products: Behavior, Modeling and Optimization**
+**Sequential Choice Model with Representative Products: Behavior, Modeling and Optimization**
 
 
 - INFORMS MSOM Conference, 2024
@@ -36,7 +36,7 @@ author_profile: true
 
 - INFORMS Revenue Management and Pricing Section Conference, 2024
 
-- INFORMS Annual Meeting, 2024
+- INFORMS Annual Meeting, 2024 / 2025
 
 - POMS-HK International Conference,	2025
 		
