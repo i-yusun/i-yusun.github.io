@@ -23,7 +23,7 @@ I will give a talk on AI vs. Human Search at 2026 INFORMS Annual Meeting. This i
 
 Title: [AI vs. Human Search](https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/PresentationDetail.aspx?evdid=3966) 
 
-Session: AI, Search, and Market Dynamics | Job Market Showcase
+Session: AI, Search, and Market Dynamics 
 
-Time & Location: Sunday, November 1 | 1:15 PM-2:30 PM | Moscone South-205 (Level 2)
+Time & Location: Sunday, November 1 | 1:15 PM-2:30 PM, Moscone South-205 (Level 2)
 
