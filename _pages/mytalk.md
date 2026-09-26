@@ -1,7 +1,7 @@
 ---
 layout: archive
 Title: "."
-permalink: /mytalk/
+permalink: /talk/
 author_profile: true
 ---
 		
@@ -28,7 +28,7 @@ author_profile: true
 - POMS-HK International Conference,	2023 / 2024 / 2025
 		
 
-**Sequential Choice Model with Representative Products: Behavior, Modeling and Optimization**
+**Sequential Choice Model with Representative Products: Modeling and Optimization**
 
 
 - INFORMS MSOM Conference, 2024
