@@ -6,9 +6,9 @@ author_profile: true
 		
 **Teaching Assistant, The Chinese University of Hong Kong**
 		
-ESTR 1005: Linear Algebra for Engineers (Elite Stream), Spring 2021 / Spring2022 / Spring2023
+ESTR 1005: Linear Algebra for Engineers (Elite Stream), Spring 2021 / Spring 2022 / Spring 2023
 		
-SEEM 3500: Quality Control and Management, Spring 2021 / Spring2022
+SEEM 3500: Quality Control and Management, Spring 2021 / Spring 2022
 		
 SEEM 3620: Introduction to Logistics and Supply Chain Management, Spring 2023
 		
