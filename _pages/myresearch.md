@@ -26,7 +26,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Zhi Chen](https://www.bschool.cuhk.edu.hk/staff/chen-zhi/), [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), **Yu Sun**, Zhiyong Zhuang
 
-&nbsp;&nbsp;&nbsp;&nbsp;Working Paper
+&nbsp;&nbsp;&nbsp;&nbsp;Under Review
 
 **4. AI vs. Human Search** 
 
