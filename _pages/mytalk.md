@@ -33,10 +33,14 @@ author_profile: true
 
 - INFORMS MSOM Conference, 2024
 		
-
 - INFORMS Revenue Management and Pricing Section Conference, 2024
 
 - INFORMS Annual Meeting, 2024 / 2025
 
 - POMS-HK International Conference,	2025
+
+
+**AI vs. Human Search**
+
+- INFORMS Annual Meeting, 2026
 		
