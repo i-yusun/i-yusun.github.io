@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /myaward/
+permalink: /award/
 author_profile: true
 ---
 
