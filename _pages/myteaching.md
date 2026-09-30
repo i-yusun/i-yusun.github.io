@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /teaching/
+permalink: /teachings/
 author_profile: true
 ---
 		
