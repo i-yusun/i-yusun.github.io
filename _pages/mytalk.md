@@ -43,4 +43,9 @@ author_profile: true
 **AI vs. Human Search**
 
 - INFORMS Annual Meeting, 2026
+
+**Decision-Aware Utility Learning for Assortment Optimization**
+
+- AIMOR Workshop, 2026
+
 		
