@@ -40,3 +40,9 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;Working Paper
 
+**6. Decision-Aware Utility Learning for Assortment Optimization**
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Hansheng Jiang](https://discover.research.utoronto.ca/53438-hansheng-jiang), [Sheng Liu](https://discover.research.utoronto.ca/21123-sheng-liu), [Daniel Zhuoyu Long](https://www1.se.cuhk.edu.hk/~zylong/), **Yu Sun**, [Ruxian Wang](https://carey.jhu.edu/faculty/faculty-directory/ruxian-wang-phd)
+
+&nbsp;&nbsp;&nbsp;&nbsp;Working Paper
+
